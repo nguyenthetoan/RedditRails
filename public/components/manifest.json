@@ -1,0 +1,6 @@
+{
+  "application.js": "http://localhost:8080/components/application.js",
+  "application.js.map": "http://localhost:8080/components/application.js.map",
+  "hello_react.js": "http://localhost:8080/components/hello_react.js",
+  "hello_react.js.map": "http://localhost:8080/components/hello_react.js.map"
+}
